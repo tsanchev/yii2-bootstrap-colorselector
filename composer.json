@@ -1,0 +1,34 @@
+{
+    "name": "tsanchev/yii2-bootstrap-colorselector",
+    "type": "yii2-extension",
+    "description": "Yii2 asset for bower Bootstrap 3 Colorselector",
+    "keywords": [
+        "colorselector",
+        "bootstrap",
+        "asset",
+        "extension",
+        "yii2"
+    ],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Anton Tsanchev",
+            "email": "tsanchev@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/bootstrap-colorselector": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "tsanchev\\bootstrap-colorselector\\": ""
+        }
+    },
+    "extra": {
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}
