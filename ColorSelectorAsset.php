@@ -8,7 +8,7 @@
  * @license   BSD-3-Clause
  */
 
-namespace tsanchev\bootstrap-colorselector;
+namespace tsanchev\colorselector;
 
 class ColorSelectorAsset extends \yii\web\AssetBundle
 {
