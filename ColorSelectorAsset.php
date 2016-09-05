@@ -1,9 +1,9 @@
 <?php
 
 /*
- * Yii 2 asset for bower LightBox2
+ * Yii 2 asset for bower Bootstrap Colorselector
  *
- * @link      https://github.com/tsanchev/yii2-lightbox2
+ * @link      https://github.com/tsanchev/yii2-bootstrap-colorselector
  * @package   yii2-asset-lightbox2
  * @license   BSD-3-Clause
  */
