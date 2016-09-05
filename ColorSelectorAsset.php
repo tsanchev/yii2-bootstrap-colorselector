@@ -4,7 +4,7 @@
  * Yii 2 asset for bower Bootstrap Colorselector
  *
  * @link      https://github.com/tsanchev/yii2-bootstrap-colorselector
- * @package   yii2-asset-bootstrap-colorselector
+ * @package   yii2-bootstrap-colorselector
  * @license   BSD-3-Clause
  */
 
@@ -29,5 +29,11 @@ class ColorSelectorAsset extends \yii\web\AssetBundle
      */
     public $css = [
         'css/bootstrap-colorselector.css',
+    ];
+    
+    
+    public $depends = [
+        'yii\bootstrap\BootstrapAsset',
+        'yii\web\JqueryAsset',
     ];
 }
