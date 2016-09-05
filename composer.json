@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "tsanchev\\bootstrap-colorselector\\": ""
+            "tsanchev\\colorselector\\": ""
         }
     },
     "extra": {
