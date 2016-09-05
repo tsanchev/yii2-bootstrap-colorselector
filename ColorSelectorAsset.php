@@ -4,7 +4,7 @@
  * Yii 2 asset for bower Bootstrap Colorselector
  *
  * @link      https://github.com/tsanchev/yii2-bootstrap-colorselector
- * @package   yii2-asset-lightbox2
+ * @package   yii2-asset-bootstrap-colorselector
  * @license   BSD-3-Clause
  */
 
